@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1043245204496",
+    "firebase_url": "https://bolo-pakistan-9ab2e.firebaseio.com",
+    "project_id": "bolo-pakistan-9ab2e",
+    "storage_bucket": "bolo-pakistan-9ab2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043245204496:android:6a2e93a0cbe18ffb8db695",
+        "android_client_info": {
+          "package_name": "com.example.bolopakistan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043245204496-5fv0oqkp5aafjfq5dq6ipov1br9ksc2k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bolopakistan",
+            "certificate_hash": "ed7a1f2fc51a18110831cc784b4c8b778dd620d0"
+          }
+        },
+        {
+          "client_id": "1043245204496-3sjd274dgfe6pujspv7n2evrhpai873e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1FIsLomNrPvHuykeO2xyEmzLuR4p7SC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043245204496-3sjd274dgfe6pujspv7n2evrhpai873e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
